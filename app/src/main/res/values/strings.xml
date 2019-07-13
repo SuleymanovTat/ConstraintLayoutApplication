@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeleteConApplication</string>
+    <string name="title">Заголовок</string>
+    <string name="description">Описания</string>
+    <string name="date">23.01.2019</string>
+    <string name="text_text_text">Text text text</string>
+    <string name="text">Срочно провести</string>
+</resources>
